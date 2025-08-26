@@ -28,7 +28,7 @@ This project was made to practice **VR development workflows** and to explore th
 ## How to Run
 1. Clone this repository:
    ```bash
-   https://github.com/Bharath-serman/VR_Builder_Sample_Game.git
+   git clone https://github.com/Bharath-serman/VR_Builder_Sample_Game.git
 
 2. Open the project in **Unity 2022.3 LTS**.  
 3. Make sure the **XR Plugin Management** is set up for your headset (**OpenXR for Quest/PC VR**).  
